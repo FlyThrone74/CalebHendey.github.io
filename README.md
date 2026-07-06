@@ -12,3 +12,4 @@ Below is a list of event logs that I set alerts for that would trigger upon Splu
 Below is a picture of the real-time logs I was receiving via Splunk that alerted me of the brute force attack
 
 image1.png
+
